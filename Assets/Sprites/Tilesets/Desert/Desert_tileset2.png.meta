@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: d638dcd3bb5e0404ab1b582b8a6a67b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desert_tileset2_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e515c2ec01b07498b33ece9f1a7d9b
+      internalID: -139641700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert_tileset2_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c49d38a8b31c498f3dc13715d85e3
+      internalID: 2124414949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Desert_tileset2_40: 811700435
+      Desert_tileset2_24: 1484440126
+      Desert_tileset2_11: 1736081618
+      Desert_tileset2_29: -1888163134
+      Desert_tileset2_33: 1524100838
+      Desert_tileset2_54: -1562804145
+      Desert_tileset2_7: 967788610
+      Desert_tileset2_30: -1888616069
+      Desert_tileset2_25: 475594809
+      Desert_tileset2_53: -1503784795
+      Desert_tileset2_9: -2109551408
+      Desert_tileset2_21: -870520195
+      Desert_tileset2_6: -122185749
+      Desert_tileset2_13: 777932717
+      Desert_tileset2_12: 323181587
+      Desert_tileset2_49: 748560206
+      Desert_tileset2_23: 1959734346
+      Desert_tileset2_36: 472089433
+      Desert_tileset2_41: -179227695
+      Desert_tileset2_2: 1840087182
+      Desert_tileset2_27: 1696337
+      Desert_tileset2_4: -1296783771
+      Desert_tileset2_18: 1362992874
+      Desert_tileset2_52: -1325706506
+      Desert_tileset2_32: -1858812775
+      Desert_tileset2_38: -1588930801
+      Desert_tileset2_45: 555381440
+      Desert_tileset2_48: -632828167
+      Desert_tileset2_51: -1960027753
+      Desert_tileset2_39: -1363136463
+      Desert_tileset2_55: 2124414949
+      Desert_tileset2_5: 1838362346
+      Desert_tileset2_17: 951312536
+      Desert_tileset2_35: -84306994
+      Desert_tileset2_37: -427065761
+      Desert_tileset2_1: -1008163833
+      Desert_tileset2_15: -421605727
+      Desert_tileset2_43: 1599566990
+      Desert_tileset2_20: 725759912
+      Desert_tileset2_28: -1463844817
+      Desert_tileset2_44: -139641700
+      Desert_tileset2_42: 1474785290
+      Desert_tileset2_0: 892924795
+      Desert_tileset2_26: -175746432
+      Desert_tileset2_3: 2110689576
+      Desert_tileset2_22: -731136856
+      Desert_tileset2_46: 663459684
+      Desert_tileset2_8: -1584365640
+      Desert_tileset2_16: -1158829365
+      Desert_tileset2_19: 794655071
+      Desert_tileset2_34: 745094711
+      Desert_tileset2_47: -961116154
+      Desert_tileset2_10: -287419039
+      Desert_tileset2_31: -969602113
+      Desert_tileset2_50: 2033230931
+      Desert_tileset2_14: -53789425
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

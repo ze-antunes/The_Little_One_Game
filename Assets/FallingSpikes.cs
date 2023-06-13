@@ -34,18 +34,14 @@ public class FallingSpikes : MonoBehaviour
                 }
             }
         }
-
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.tag ==  "Player")
+        if (other.gameObject.tag == "Player")
         {
             FindObjectOfType<PlayerMovement>().TakeDamage(25);
             Destroy(gameObject);
-        } if (other.gameObject.tag ==  "TilesetLayer"){
-            rb.gravityScale = 0;
-            boxCollider2D.enabled = false;
         }
     }
 }

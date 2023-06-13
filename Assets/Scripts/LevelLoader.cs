@@ -34,6 +34,30 @@ public class LevelLoader : MonoBehaviour
         }
     }
 
+    public void LoadNextLevelMirror(int sceneId)
+    {
+        if (SceneManager.GetActiveScene().buildIndex + 1 != SceneManager.sceneCountInBuildSettings)
+        {
+            StartCoroutine(LoadLevel(sceneId));
+        }
+    }
+
+    public void LoadNextLevelCoin(int sceneId)
+    {
+        if (SceneManager.GetActiveScene().buildIndex + 1 != SceneManager.sceneCountInBuildSettings)
+        {
+            StartCoroutine(LoadLevel(sceneId));
+        }
+    }
+
+    public void LoadNextLevelBow(int sceneId)
+    {
+        if (SceneManager.GetActiveScene().buildIndex + 1 != SceneManager.sceneCountInBuildSettings)
+        {
+            StartCoroutine(LoadLevel(sceneId));
+        }
+    }
+
     public void LoadRandomLevel()
     {
         if (SceneManager.GetActiveScene().buildIndex + 1 != SceneManager.sceneCountInBuildSettings)
